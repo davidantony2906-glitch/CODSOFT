@@ -1,0 +1,16 @@
+# 🧮 Task 2 - Calculator App
+
+This is a simple calculator built using Python Tkinter.
+
+## Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+## Tech Used
+- Python
+- Tkinter
+
+## Status
+✅ Completed as part of CodSoft Internship
